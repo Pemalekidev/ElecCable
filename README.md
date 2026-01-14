@@ -21,7 +21,7 @@ Assurez-vous d'avoir **Python 3.8+** installé sur votre machine.
 
 ### 2. Cloner le projet
 ```bash
-git clone [https://github.com/votre-utilisateur/eleccalc-pro.git](https://github.com/votre-utilisateur/eleccalc-pro.git)
+git clone https://github.com/Pemalekidev/ElecCable.git
 ```
 ### 3. Installer les dépendances
 ```
