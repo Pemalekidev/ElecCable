@@ -37,21 +37,22 @@ $$I_z \geq I_b$$
 
 ![Texte alternatif](assets/1.png)
 
-<p align="center">
-  <img src="assets/2.png" width="200" title="ElecCalc Pro Logo">
-</p>
-<p align="center">
-  <img src="assets/3.png" width="200" title="ElecCalc Pro Logo">
-</p>
-<p align="center">
-  <img src="assets/4.png" width="200" title="ElecCalc Pro Logo">
-</p>
-<p align="center">
-  <img src="assets/5.png" width="200" title="ElecCalc Pro Logo">
-</p>
-<p align="center">
-  <img src="assets/6.png" width="200" title="ElecCalc Pro Logo">
-</p>
+---
+![Texte alternatif](assets/2.png)
+
+---
+![Texte alternatif](assets/3.png)
+
+---
+
+![Texte alternatif](assets/4.png)
+
+---
+![Texte alternatif](assets/5.png)
+
+---
+![Texte alternatif](assets/6.png)
+
 
 ## 🚀 Fonctionnalités
 - **Calcul précis** basé sur les référentiels NF C 15-100.
