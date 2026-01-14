@@ -1,6 +1,6 @@
-# ⚡ ElecCalc Pro v2.1 | NF C 15-100
+# ⚡ ElecCable Pro v2.1 | NF C 15-100
 
-**ElecCalc Pro** est une application web interactive développée avec **Python** et **Streamlit**. Elle permet aux ingénieurs et installateurs électriciens de dimensionner rapidement et avec précision les sections de câbles basse tension en respectant les exigences de la norme française **NF C 15-100**.
+**ElecCable Pro** est une application web interactive développée avec **Python** et **Streamlit**. Elle permet aux ingénieurs et installateurs électriciens de dimensionner rapidement et avec précision les sections de câbles basse tension en respectant les exigences de la norme française **NF C 15-100**.
 
 ---
 
@@ -22,4 +22,15 @@ Assurez-vous d'avoir **Python 3.8+** installé sur votre machine.
 ### 2. Cloner le projet
 ```bash
 git clone [https://github.com/votre-utilisateur/eleccalc-pro.git](https://github.com/votre-utilisateur/eleccalc-pro.git)
-cd eleccalc-pro
+```
+### 3. Installer les dépendances
+```
+pip install -r requirements.txt
+```
+### 4.Lancer l'application
+```
+streamlit run App_Section_de_cable.py
+```
+📊 Méthodologie de CalculL'application suit un processus de vérification en deux étapes conforme aux guides de l'UTE :
+### A. Condition ThermiqueOn vérifie que le courant admissible corrigé du câble ($I_z$) est supérieur au courant d'emploi ($I_b$) :
+$$I_z \geq I_b$$
