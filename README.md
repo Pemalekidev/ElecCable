@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 ### 4.Lancer l'application
 ```
-streamlit run App_Section_de_cable.py
+streamlit run main.py
 ```
 📊 Méthodologie de CalculL'application suit un processus de vérification en deux étapes conforme aux guides de l'UTE :
 ### A. Condition ThermiqueOn vérifie que le courant admissible corrigé du câble ($I_z$) est supérieur au courant d'emploi ($I_b$) :
