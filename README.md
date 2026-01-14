@@ -35,10 +35,8 @@ streamlit run main.py
 ### A. Condition ThermiqueOn vérifie que le courant admissible corrigé du câble ($I_z$) est supérieur au courant d'emploi ($I_b$) :
 $$I_z \geq I_b$$
 
+![Texte alternatif](assets/1.png)
 
-<p align="center">
-  <img src="assets/1.png" width="200" title="ElecCalc Pro Logo">
-</p>
 <p align="center">
   <img src="assets/2.png" width="200" title="ElecCalc Pro Logo">
 </p>
