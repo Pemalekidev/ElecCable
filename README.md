@@ -34,3 +34,36 @@ streamlit run main.py
 📊 Méthodologie de CalculL'application suit un processus de vérification en deux étapes conforme aux guides de l'UTE :
 ### A. Condition ThermiqueOn vérifie que le courant admissible corrigé du câble ($I_z$) est supérieur au courant d'emploi ($I_b$) :
 $$I_z \geq I_b$$
+
+
+<p align="center">
+  <img src="assets/1.png" width="200" title="ElecCalc Pro Logo">
+</p>
+<p align="center">
+  <img src="assets/2.png" width="200" title="ElecCalc Pro Logo">
+</p>
+<p align="center">
+  <img src="assets/3.png" width="200" title="ElecCalc Pro Logo">
+</p>
+<p align="center">
+  <img src="assets/4.png" width="200" title="ElecCalc Pro Logo">
+</p>
+<p align="center">
+  <img src="assets/5.png" width="200" title="ElecCalc Pro Logo">
+</p>
+<p align="center">
+  <img src="assets/6.png" width="200" title="ElecCalc Pro Logo">
+</p>
+
+## 🚀 Fonctionnalités
+- **Calcul précis** basé sur les référentiels NF C 15-100.
+- **Visualisation dynamique** avec graphiques comparatifs.
+- **Export professionnel** : [Télécharger un exemple de PDF](assets/Note_Calculs_32A_50m.pdf).
+
+## 🛠️ Stack Technique
+- **Backend** : Python / Streamlit
+- **PDF Generation** : FPDF
+- **Data** : Pandas
+
+---
+🖋️ **By Petema Maleki**
